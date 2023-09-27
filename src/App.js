@@ -1,10 +1,9 @@
 import React from "react";
-import logIn from "./components/login/logIn";
-
+import LogIn from "./components/login/logIn"
 function App() {
   return (
 <>
-  <logIn/>
+<LogIn/>
 </>
 
   );

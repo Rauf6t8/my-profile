@@ -1,12 +1,15 @@
 import React from 'react'
 import './login.css'
 
-const logIn = () => {
+const LogIn = () => {
   return (
     <div>
-      <h1>login</h1>
+      <h1>login Pagegggggggggggggggggg ooooooooooooojj </h1>
+
+
+
     </div>
   )
 }
 
-export default logIn
+export default LogIn
